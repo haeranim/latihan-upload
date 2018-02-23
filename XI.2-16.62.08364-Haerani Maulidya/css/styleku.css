@@ -1,0 +1,26 @@
+h1, h2 {color : #0040ff;}
+
+#nav {
+	border:3px dotted red;
+	margin: 10px 15px 10px 20px;
+	padding: 10px 10px 10px 10px
+}
+
+#nav a {
+	text-decoration: none;
+	color: teal;
+}
+
+ul {
+	list-style-type: square; 
+}
+
+.desc {
+	font-family: Arial;
+	font-variant: small-caps;
+
+}
+
+.penting {
+	color: red;
+}
